@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\as\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-v4-19.1.0_c6d35bb8d7e2d3856b8a129629f4da38dbb7e112\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\libs\picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\transforms\dex\debug\folders\1000\2\picasso-2.5.2_757f0453b6bf80a00f7db4dcb49a233c1217379e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_25f9392bc22e9e3a19ca31ecb83e8285138aa9e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fbe223c89a60debb2a95b403d8c47bdab9afc97f">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_a34a3705a70c51110a89014d8b76e47ff46e0d16\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\libs\android-async-http-1.4.6.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="C:\Users\29129\AndroidStudioProjects\android-ajax-master1\app\build\intermediates\transforms\dex\debug\folders\1000\2\android-async-http-1.4.6_1aff4a266e90e639f6e1dd07aeb8ff5bd183b626\classes.dex" />
+    </item>
+
+</items>

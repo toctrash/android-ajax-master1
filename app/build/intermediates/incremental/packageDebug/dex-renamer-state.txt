@@ -1,0 +1,7 @@
+#Wed Apr 12 21:58:46 CST 2017
+base.0=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a34a3705a70c51110a89014d8b76e47ff46e0d16
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25f9392bc22e9e3a19ca31ecb83e8285138aa9e0\\classes.dex
+base.1=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25f9392bc22e9e3a19ca31ecb83e8285138aa9e0
+file.0=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a34a3705a70c51110a89014d8b76e47ff46e0d16\\classes.dex

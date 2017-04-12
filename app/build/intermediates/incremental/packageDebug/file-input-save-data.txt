@@ -1,0 +1,30 @@
+#Internal package file, do not edit.
+#Wed Apr 12 21:58:46 CST 2017
+2.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+5.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_fullscreen.xml
+5.set=ANDROID_RESOURCE
+3.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a34a3705a70c51110a89014d8b76e47ff46e0d16
+6.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listview_header_row.xml
+2.set=ANDROID_RESOURCE
+4.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+7.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25f9392bc22e9e3a19ca31ecb83e8285138aa9e0\\classes.dex
+7.set=DEX
+count=9
+0.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
+5.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\listview_item_row.xml
+4.set=ANDROID_RESOURCE
+6.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+1.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+1.set=ANDROID_RESOURCE
+7.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_25f9392bc22e9e3a19ca31ecb83e8285138aa9e0
+2.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-xxhdpi-v4\\ic_launcher.png
+6.set=ANDROID_RESOURCE
+0.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+8.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+3.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_a34a3705a70c51110a89014d8b76e47ff46e0d16\\classes.dex
+3.set=DEX
+1.base=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_
+4.file=C\:\\Users\\29129\\AndroidStudioProjects\\android-ajax-master1\\app\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
+8.set=ANDROID_RESOURCE
+0.set=ANDROID_RESOURCE
